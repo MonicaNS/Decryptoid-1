@@ -22,7 +22,7 @@ The following features are implemented in this web application:
 
 * Tools used for coding this application:
   * PHP for sever-side programming
-  * JavaScript for client-side verification
+  * JavaScript for client-side verification of data
   * Basic HTML and CSS for a simple design
  
 ## Video Walkthrough 
