@@ -1,6 +1,6 @@
 <?php 	// login.php
 	$hn = 'localhost';
 	$un = 'root';
-	$pw = 'MonicaIsTheBest:)';
+	$pw = '';
 	$db = 'Decryptoid';
 ?>
